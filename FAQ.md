@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-This page answers some questions that we frequently receive about the curriculum.
+This page answers some questions that we frequently receive about the students curriculum.
 If you have questions that aren't answered here, try asking through one of our [community channels](README.md#community).
 If it seems important enough or we get asked that question a lot, we will probably add it here.
 
